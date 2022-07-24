@@ -1,1 +1,1 @@
-# linkedin_job_scraper
+# LinkedIn Job Scraper
